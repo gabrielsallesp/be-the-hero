@@ -1,6 +1,5 @@
 Rota / Recurso
 
-
 Metodos HTTP: 
 
 GET: Buscar/Listar uma informação do backend
